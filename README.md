@@ -5,11 +5,11 @@ Welcome to my creative projects! <p>
 • [Phuang Malai Krung Thep](https://phuangmalaikrungthep.blogspot.com/)  <p>
 
 ---
-# 🐍 Python <br>
+# 🌍 Creative Projects <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [Eala Dun Eideann](https://ealaduneideann.blogspot.com/)  | July 2024  | Journalism, Photography  |   |
-| [Phuang Malai Krung Thep](https://phuangmalaikrungthep.blogspot.com/)  | July 2025  | Canva, Journalism, Photography   |   |
+| [Eala Dun Eideann](https://ealaduneideann.blogspot.com/)  | July 2024  | Journalism, Photography, Google Maps  |   |
+| [Phuang Malai Krung Thep](https://phuangmalaikrungthep.blogspot.com/)  | July 2025  | Canva, Writing, Photography, Google Maps  |   |
 
 ---
