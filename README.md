@@ -1,14 +1,15 @@
 # 🎨 Vicky's Creative Projects
 Welcome to my creative projects! <p>
 ## 📑 Table of Contents <br>
-• [Python](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-python-)  <p>
-• [R](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-python-)  <p>
+• [Eala Dun Eideann](https://ealaduneideann.blogspot.com/)  <p>
+• [Phuang Malai Krung Thep](https://phuangmalaikrungthep.blogspot.com/)  <p>
 
 ---
 # 🐍 Python <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| TBD  | May 2025  | Python  | TBD  |
+| [Eala Dun Eideann](https://ealaduneideann.blogspot.com/)  | July 2024  | Journalism, Photography  |   |
+| [Phuang Malai Krung Thep](https://phuangmalaikrungthep.blogspot.com/)  | July 2025  | Canva, Journalism, Photography   |   |
 
 ---
