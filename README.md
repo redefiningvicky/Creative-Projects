@@ -1,11 +1,11 @@
 # 🎨 Vicky's Creative Projects
 Welcome to my creative projects! <p>
 ## 📑 Table of Contents <br>
-• [Eala Dun Eideann](https://ealaduneideann.blogspot.com/)  <p>
-• [Phuang Malai Krung Thep](https://phuangmalaikrungthep.blogspot.com/)  <p>
+• [Eala Dun Eideann](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-blog-)  <p>
+• [Phuang Malai Krung Thep](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-blog-)  <p>
 
 ---
-# 🌍 Creative Projects <br>
+# 🌍 Blog <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
