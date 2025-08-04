@@ -17,6 +17,6 @@ Welcome to my creative projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [📢 The Power of One Voice](https://github.com/redefiningvicky/The-Power-of-One-Voice)  | January 2025  | Canva  |   |
+| [⚡ The Power of One Voice](https://github.com/redefiningvicky/The-Power-of-One-Voice)  | January 2025  | Canva  |   |
 
 ---
