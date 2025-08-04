@@ -17,6 +17,6 @@ Welcome to my creative projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [⚡ The Power of One Voice](https://github.com/redefiningvicky/The-Power-of-One-Voice)  | January 2025  | Canva  | Canva was used to create an Instagram series that communicates Antarang Foundation’s mission, showcases their impact, and emphasizes the urgent need for communications funding to enhance youth career pathways in India.  |
+| [⚡ The Power of One Voice](https://github.com/redefiningvicky/The-Power-of-One-Voice)  | January 2025  | Canva  | Canva was used to create an Instagram series to communicate Antarang Foundation’s mission and impact.  |
 
 ---
