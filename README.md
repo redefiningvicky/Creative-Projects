@@ -13,8 +13,6 @@ Welcome to my creative projects! <p>
 | [🌼 Phuang Malai Krung Thep](https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep)  | July 2025  | Canva, Writing, Photography, Google Maps  |   |
 
 ---
-
----
 # 📸 Instagram <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
