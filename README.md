@@ -25,6 +25,6 @@ Welcome to my creative projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [☕ Common Grounds]  | June 2025  | Canva, Figma,   | TBD |
+| ☕ Common Grounds  | June 2025  | Canva, Figma,   | TBD |
 
 ---
