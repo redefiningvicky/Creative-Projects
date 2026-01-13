@@ -1,9 +1,16 @@
 # 🎨 Vicky's Creative Projects
 Welcome to my creative projects! <p>
 ## 📑 Table of Contents <br>
+• [Adobe Indesign](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-adobe-indesign-)  <p>
 • [Blog](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-blog-)  <p>
 • [Canva](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-canva-)  <p>
 • [Figma](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-figma-)  <p>
+
+---
+# 📖 Adobe Indesign <br>
+
+| Project Link  | Completion Date | Tools | Project Description |
+| TBA | ------------- | Adobe Indesign | TBA |
 
 ---
 # 🖋️ Blog <br>
