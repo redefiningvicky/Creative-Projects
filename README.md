@@ -10,7 +10,8 @@ Welcome to my creative projects! <p>
 # 📖 Adobe Indesign <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
-| TBA | ------------- | Adobe Indesign | TBA |
+| ------------- | ------------- | ------------- | ------------- |
+| TBA  | TBA  | Adobe Indesign  | TBA  |
 
 ---
 # 🖋️ Blog <br>
