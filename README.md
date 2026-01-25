@@ -11,7 +11,7 @@ Welcome to my creative projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| TBA  | TBA  | Adobe Indesign  | TBA  |
+|   |   |   |   |
 
 ---
 # 🖌️ Canva <br>
