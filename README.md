@@ -1,17 +1,10 @@
 # 🎨 Vicky's Creative Projects
 Welcome to my creative projects! <p>
 ## 📑 Table of Contents <br>
-• [Adobe Indesign](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-adobe-indesign-)  <p>
 • [Canva](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-canva-)  <p>
-• [Figma](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-figma-)  <p>
 • [Google Blogspot](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-google-blogspot-)  <p>
-
----
-# 📖 Adobe Indesign <br>
-
-| Project Link  | Completion Date | Tools | Project Description |
-| ------------- | ------------- | ------------- | ------------- |
-|   |   |   |   |
+• [Adobe Indesign](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-adobe-indesign-)  <p>
+• [Figma](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-figma-)  <p>
 
 ---
 # 🖌️ Canva <br>
@@ -22,6 +15,13 @@ Welcome to my creative projects! <p>
 | [⚡ The Power of One Voice](https://github.com/redefiningvicky/The-Power-of-One-Voice)  | Jan 2025  | Canva  | Canva was used to create an Instagram series to communicate Antarang Foundation’s mission and impact in India.  |
 
 ---
+# 🖋️ Google Blogspot <br>
+
+| Project Link  | Completion Date | Tools | Project Description |
+| ------------- | ------------- | ------------- | ------------- |
+| [🦢 Eala Dun Eideann](https://github.com/redefiningvicky/Eala-Dun-Eideann)  | Jul 2024  | Google (Blogspot & Maps)  | Google (Blogspot & Maps) were used to create a multimedia website showcasing Scotland’s cultural and historical heritage.  |
+
+---
 # ✏️ Figma <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
@@ -29,10 +29,10 @@ Welcome to my creative projects! <p>
 |   |   |    |  |
 
 ---
-# 🖋️ Google Blogspot <br>
+# 📖 Adobe Indesign <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🦢 Eala Dun Eideann](https://github.com/redefiningvicky/Eala-Dun-Eideann)  | Jul 2024  | Google (Blogspot & Maps)  | Google (Blogspot & Maps) were used to create a multimedia website showcasing Scotland’s cultural and historical heritage.  |
+|   |   |   |   |
 
 ---
