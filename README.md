@@ -3,6 +3,7 @@ Welcome to my creative projects! <p>
 ## 📑 Table of Contents <br>
 • [Canva](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-canva-)  <p>
 • [Google Blogspot](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-google-blogspot-)  <p>
+• [Adobe Illustrator](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-adobe-illustrator-)  <p>
 • [Adobe Indesign](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-adobe-indesign-)  <p>
 • [Figma](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-figma-)  <p>
 
@@ -21,12 +22,14 @@ Welcome to my creative projects! <p>
 | ------------- | ------------- | ------------- | ------------- |
 | [🦢 Eala Dun Eideann](https://github.com/redefiningvicky/Eala-Dun-Eideann)  | Jul 2024  | Google (Blogspot & Maps)  | Google (Blogspot & Maps) were used to create a multimedia website showcasing Scotland’s cultural and historical heritage.  |
 
+
 ---
-# ✏️ Figma <br>
+# ✂️ Adobe Illustrator <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-|   |   |    |  |
+|   |   |   |   |
+
 
 ---
 # 📖 Adobe Indesign <br>
@@ -34,5 +37,14 @@ Welcome to my creative projects! <p>
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
 |   |   |   |   |
+
+
+---
+# ✏️ Figma <br>
+
+| Project Link  | Completion Date | Tools | Project Description |
+| ------------- | ------------- | ------------- | ------------- |
+|   |   |    |  |
+
 
 ---
