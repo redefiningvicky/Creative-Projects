@@ -8,7 +8,7 @@ Welcome to my creative projects! <p>
 • [Figma](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-figma-)  <p>
 
 ---
-# 🖌️ Canva <br>
+## 🖌️ Canva <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
@@ -16,7 +16,7 @@ Welcome to my creative projects! <p>
 | [⚡ The Power of One Voice](https://github.com/redefiningvicky/The-Power-of-One-Voice)  | Jan 2025  | Canva  | Canva was used to create an Instagram series to communicate Antarang Foundation’s mission and impact in India.  |
 
 ---
-# 🖋️ Google Blogspot <br>
+## 🖋️ Google Blogspot <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
@@ -24,7 +24,7 @@ Welcome to my creative projects! <p>
 
 
 ---
-# ✂️ Adobe Illustrator <br>
+## ✂️ Adobe Illustrator <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
@@ -32,7 +32,7 @@ Welcome to my creative projects! <p>
 
 
 ---
-# 📖 Adobe Indesign <br>
+## 📖 Adobe Indesign <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
@@ -40,7 +40,7 @@ Welcome to my creative projects! <p>
 
 
 ---
-# ✏️ Figma <br>
+## ✏️ Figma <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
