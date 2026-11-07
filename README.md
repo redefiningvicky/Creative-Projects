@@ -43,13 +43,14 @@
     View Project
   </a>
   &nbsp; • &nbsp;
-  <a href="https://phuangmalaikrungthep.blogspot.com/">
-    View Website
-  </a>
-  &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/Phuang_Malai_Krung_Thep_Blog.png">
     View Preview
   </a>
+  &nbsp; • &nbsp;
+  <a href="https://phuangmalaikrungthep.blogspot.com/">
+    View Website
+  </a>
+
 </p>
 
 <br>
@@ -117,14 +118,6 @@
     View Project
   </a>
   &nbsp; • &nbsp;
-  <a href="https://ealaduneideann.blogspot.com/">
-    View Website
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://maps.app.goo.gl/4zdEjw6ytKLdveuUA">
-    View Map
-  </a>
-  &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Eala-Dun-Eideann/blob/main/Eala_Dun_Eideann_Blog.png">
     Website Preview
   </a>
@@ -132,4 +125,24 @@
   <a href="https://github.com/redefiningvicky/Eala-Dun-Eideann/blob/main/Eala_Dun_Eideann_Map_Color.png">
     Map Preview
   </a>
+  &nbsp; • &nbsp;
+  <a href="https://ealaduneideann.blogspot.com/">
+    View Website
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://maps.app.goo.gl/4zdEjw6ytKLdveuUA">
+    View Map
+  </a>
 </p>
+
+<hr>
+
+<div align="center">
+
+  <p>
+    <a href="https://github.com/redefiningvicky/redefiningvicky">
+      Back to Portfolio
+    </a>
+  </p>
+
+</div>
