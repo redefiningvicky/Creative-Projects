@@ -1,50 +1,135 @@
-# 🎨 Vicky's Creative Projects
-Welcome to my creative projects! <p>
-## 📑 Table of Contents <br>
-• [Canva](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-canva-)  <p>
-• [Google Blogspot](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-google-blogspot-)  <p>
-• [Adobe Illustrator](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-adobe-illustrator-)  <p>
-• [Adobe Indesign](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-adobe-indesign-)  <p>
-• [Figma](https://github.com/redefiningvicky/Creative-Projects?tab=readme-ov-file#-figma-)  <p>
 
----
-## 🖌️ Canva <br>
+<div align="center">
 
-| Project Link  | Completion Date | Tools | Project Description |
-| ------------- | ------------- | ------------- | ------------- |
-| [🌼 Phuang Malai Krung Thep](https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep)  | Jul 2025  | Canva, Google Maps, Google Blogspot  | Canva, Google Maps, and Google Blogspot were used to create pamphlets exploring Thailand’s climate challenges, urban context, and cultural relationship to water. |
-| [⚡ The Power of One Voice](https://github.com/redefiningvicky/The-Power-of-One-Voice)  | Jan 2025  | Canva  | Canva was used to create an Instagram series to communicate Antarang Foundation’s mission and impact in India.  |
+  <h1>🎨 Creative Projects</h1>
 
----
-## 🖋️ Google Blogspot <br>
+  <p>
+    Exploring visual design and cultural storytelling.
+  </p>
 
-| Project Link  | Completion Date | Tools | Project Description |
-| ------------- | ------------- | ------------- | ------------- |
-| [🦢 Eala Dun Eideann](https://github.com/redefiningvicky/Eala-Dun-Eideann)  | Jul 2024  | Google Blogspot, Google Maps  | Google Blogspot and Google Maps were used to create a multimedia website showcasing Scotland’s cultural and historical heritage.  |
+</div>
 
+<hr>
 
----
-## ✂️ Adobe Illustrator <br>
+<h2>📑 Table of Contents</h2>
 
-| Project Link  | Completion Date | Tools | Project Description |
-| ------------- | ------------- | ------------- | ------------- |
-|   |   |   |   |
+<ul>
+  <li><a href="#canva">Canva</a></li>
+  <li><a href="#google-blogspot">Google Blogspot</a></li>
+</ul>
 
+<hr>
 
----
-## 📖 Adobe Indesign <br>
+<h2 id="canva">🖌️ Canva</h2>
 
-| Project Link  | Completion Date | Tools | Project Description |
-| ------------- | ------------- | ------------- | ------------- |
-|   |   |   |   |
+<h3>
+  🌼
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep">
+    Phuang Malai Krung Thep
+  </a>
+</h3>
 
+<p>
+  A visual pamphlet collection exploring Thailand's
+  relationship with water and climate resilience.
+</p>
 
----
-## ✏️ Figma <br>
+<p>
+  <sub>July 2025 · Canva, Google Maps, Google Blogspot</sub>
+</p>
 
-| Project Link  | Completion Date | Tools | Project Description |
-| ------------- | ------------- | ------------- | ------------- |
-|   |   |    |  |
+<p>
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://phuangmalaikrungthep.blogspot.com/">
+    View Website
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/Phuang_Malai_Krung_Thep_Blog.png">
+    View Preview
+  </a>
+</p>
 
+<br>
 
----
+<h3>
+  ⚡
+  <a href="https://github.com/redefiningvicky/The-Power-of-One-Voice">
+    The Power of One Voice
+  </a>
+</h3>
+
+<p>
+  An Instagram series communicating Antarang Foundation's
+  mission and career opportunities for young adults in India.
+</p>
+
+<p>
+  <sub>January 2025 · Canva</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/The-Power-of-One-Voice">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/The-Power-of-One-Voice/blob/main/4_Instagram/Instagram_Post_1.png">
+    Post 1
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/The-Power-of-One-Voice/blob/main/4_Instagram/Instagram_Post_2.png">
+    Post 2
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/The-Power-of-One-Voice/blob/main/4_Instagram/Instagram_Post_3.png">
+    Post 3
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/The-Power-of-One-Voice/blob/main/4_Instagram/Instagram_Post_RGB.pdf">
+    View PDF
+  </a>
+</p>
+
+<hr>
+
+<h2 id="google-blogspot">🖋️ Google Blogspot</h2>
+
+<h3>
+  🦢
+  <a href="https://github.com/redefiningvicky/Eala-Dun-Eideann">
+    Eala Dun Eideann
+  </a>
+</h3>
+
+<p>
+  A multimedia website and interactive map
+  exploring Scotland's cultural and historical heritage.
+</p>
+
+<p>
+  <sub>July 2024 · Google Blogspot, Google Maps</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Eala-Dun-Eideann">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://ealaduneideann.blogspot.com/">
+    View Website
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://maps.app.goo.gl/4zdEjw6ytKLdveuUA">
+    View Map
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Eala-Dun-Eideann/blob/main/Eala_Dun_Eideann_Blog.png">
+    Website Preview
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Eala-Dun-Eideann/blob/main/Eala_Dun_Eideann_Map_Color.png">
+    Map Preview
+  </a>
+</p>
