@@ -15,7 +15,7 @@
 
 <ul>
   <li><a href="#canva">Canva</a></li>
-  <li><a href="#google-Blogger">Google Blogger</a></li>
+  <li><a href="#blogger">Blogger</a></li>
 </ul>
 
 <hr>
@@ -35,7 +35,7 @@
 </p>
 
 <p>
-  <sub>July 2025 · Canva, Google Maps, Google Blogger</sub>
+  <sub>July 2025 · Canva, Google Maps, Blogger</sub>
 </p>
 
 <p>
@@ -125,7 +125,7 @@
 </p>
 
 <p>
-  <sub>July 2024 · Google Blogger, Google Maps</sub>
+  <sub>July 2024 · Blogger, Google Maps</sub>
 </p>
 
 <p>
