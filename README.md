@@ -15,7 +15,7 @@
 
 <ul>
   <li><a href="#canva">Canva</a></li>
-  <li><a href="#google-blogspot">Google Blogspot</a></li>
+  <li><a href="#google-Blogger">Google Blogger</a></li>
 </ul>
 
 <hr>
@@ -35,7 +35,7 @@
 </p>
 
 <p>
-  <sub>July 2025 · Canva, Google Maps, Google Blogspot</sub>
+  <sub>July 2025 · Canva, Google Maps, Google Blogger</sub>
 </p>
 
 <p>
@@ -43,7 +43,7 @@
     View Project
   </a>
   &nbsp; • &nbsp;
-  <a href="https://phuangmalaikrungthep.blogspot.com/">
+  <a href="https://phuangmalaikrungthep.Blogger.com/">
     View Website
   </a>
   &nbsp; • &nbsp;
@@ -110,7 +110,7 @@
 
 <hr>
 
-<h2 id="google-blogspot">🖋️ Google Blogspot</h2>
+<h2 id="google-Blogger">🖋️ Google Blogger</h2>
 
 <h3>
   🦢
@@ -125,7 +125,7 @@
 </p>
 
 <p>
-  <sub>July 2024 · Google Blogspot, Google Maps</sub>
+  <sub>July 2024 · Google Blogger, Google Maps</sub>
 </p>
 
 <p>
@@ -133,7 +133,7 @@
     View Project
   </a>
   &nbsp; • &nbsp;
-  <a href="https://ealaduneideann.blogspot.com/">
+  <a href="https://ealaduneideann.Blogger.com/">
     View Website
   </a>
   &nbsp; • &nbsp;
