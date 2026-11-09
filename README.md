@@ -110,7 +110,7 @@
 
 <hr>
 
-<h2 id="google-Blogger">🖋️ Google Blogger</h2>
+<h2 id="blogger">🖋️ Blogger</h2>
 
 <h3>
   🦢
